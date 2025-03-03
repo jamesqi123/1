@@ -1,4 +1,4 @@
-I found a dataset from Kaggle[  ](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download) and I will conduct a business intelligence analysis on a company's customer data. This dataset is likely a customer record from a telecom company, with personally identifiable information removed. The data includes customer information such as demographics, telecom services used, billing details, etc. I will perform business intelligence analysis in Tableau.
+I found a dataset from Kaggle (https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download) and I will conduct a business intelligence analysis on a company's customer data. This dataset is likely a customer record from a telecom company, with personally identifiable information removed. The data includes customer information such as demographics, telecom services used, billing details, etc. I will perform business intelligence analysis in Tableau.
 
 The research questions they are investigating revolve around customer behavior, service preferences, pricing strategies, and churn analysis. Here are some key questions:
 
