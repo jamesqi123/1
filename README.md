@@ -40,3 +40,5 @@ Should the company target specific demographic groups differently to reduce chur
 Can the company predict which customers are at high risk of churning?
 What retention strategies could be implemented based on these insights?
 What additional data (customer support interactions, complaints, customer satisfaction) could help refine these findings?
+
+These seven pictures I ahve posted are the results I obtained using Tableau to analyze my questions.
